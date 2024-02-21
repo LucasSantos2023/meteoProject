@@ -1,5 +1,3 @@
-# Weather App
+## Vite GitHub Pages
 
-- npm i axios
-
-## API 
+https://vitejs.dev/guide/static-deploy.html
